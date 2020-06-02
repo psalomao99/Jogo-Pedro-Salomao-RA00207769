@@ -3899,7 +3899,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &319069745
 RectTransform:
   m_ObjectHideFlags: 0
@@ -9396,7 +9396,7 @@ PrefabInstance:
     - target: {fileID: 7746205581595828464, guid: 2d2ef4ff355bc1b4aa7de32ce5b6ffce,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2d2ef4ff355bc1b4aa7de32ce5b6ffce, type: 3}
@@ -9480,7 +9480,7 @@ PrefabInstance:
     - target: {fileID: 7746205581595828464, guid: 2d2ef4ff355bc1b4aa7de32ce5b6ffce,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2d2ef4ff355bc1b4aa7de32ce5b6ffce, type: 3}
@@ -10874,7 +10874,7 @@ PrefabInstance:
     - target: {fileID: 7746205581595828464, guid: 2d2ef4ff355bc1b4aa7de32ce5b6ffce,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2d2ef4ff355bc1b4aa7de32ce5b6ffce, type: 3}
@@ -11536,7 +11536,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c432c83f5abac0e4b95495d22dc7fa7c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  iaCount: 1
+  iaCount: 4
   ias: []
   painelVitoria: {fileID: 319069744}
 --- !u!4 &1844572586
