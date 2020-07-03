@@ -68,7 +68,6 @@ GameObject:
   - component: {fileID: 842726637402417535}
   - component: {fileID: 842726637402417534}
   - component: {fileID: 842726637402417533}
-  - component: {fileID: 5977132046656256395}
   m_Layer: 0
   m_Name: black
   m_TagString: Untagged
@@ -149,19 +148,6 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
---- !u!114 &5977132046656256395
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 842726637402417795}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fbf24e8a494bcfc4ca07aa599c35d737, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  srinetoload: Srine01
 --- !u!1 &842726637540307892
 GameObject:
   m_ObjectHideFlags: 0

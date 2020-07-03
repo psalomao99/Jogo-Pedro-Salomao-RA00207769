@@ -15,7 +15,7 @@ public class Srine : MonoBehaviour
             
             if (backtoworld)
             {
-                SceneManager.LoadScene("MainScene");
+                SceneManager.LoadScene("SampleScene");
 
             }
             else
